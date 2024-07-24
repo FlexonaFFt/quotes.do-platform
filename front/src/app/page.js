@@ -1,8 +1,11 @@
 'use client';
 import HomeSplineModel from "./components/spline-main-model";
+import './page.module.css'
 
 export default function App() {
   return (
-    <HomeSplineModel />
+    <div className="main">
+      <HomeSplineModel />
+    </div>
   );
 }

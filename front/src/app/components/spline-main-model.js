@@ -5,7 +5,7 @@ export default function HomeSplineModel() {
   return (
     <main>
       <Spline
-        scene="https://prod.spline.design/7GbN4xPBWypRgkhs/scene.splinecode" 
+        scene="https://prod.spline.design/WW3dJInPF9ecsdDD/scene.splinecode"
       />
     </main>
   );
